@@ -1,6 +1,9 @@
 # Effectiveness-of-FWP
+
 **Effectiveness of Flexible Working Practices on Organisational Productivity: Employers’ Perceptions in the UK**
+
 ![image](https://th.bing.com/th/id/OIP.TBnhPDKm0S4qwByNX4An-wHaEe?w=258&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3)
+
 🔍 Context:
 “Effectiveness of Flexible Working Practices on Organisational Productivity: Employers’ Perceptions in the UK” Analysed secondary data from the Fourth Work-Life Balance Survey of Employers (WLB4) to examine how flexible working practices (FWPs) influence organisational productivity, with employee behaviours as mediating factors.
 

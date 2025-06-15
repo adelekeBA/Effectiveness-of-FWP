@@ -1,0 +1,21 @@
+"","x"
+"(Intercept)",0.888320812381787
+"RefJobTitleDirector",0.220616267428422
+"RefJobTitleFinAccMgr",0.288235379483878
+"RefJobTitleGeneralMgr",0.194527239091558
+"RefJobTitleHeadTeacher",1.41822316974086
+"RefJobTitleHumanResources",0.223999305562365
+"RefJobTitleMD/CEO",0.215090076811894
+"RefJobTitleOther Manager",0.180032763458843
+"RefJobTitleothers",0.494251118772394
+"RefJobTitleOwner",0.161975584277648
+"RefJobTitlePA",0.157285072054427
+"RefJobTitlePersonnelMgr",0.243363393700037
+"RefJobTitleTrainingMgr",0.480556047321402
+"FWRquest_RoleSuitability",0.139956767241125
+"FWA_BizImpact",-0.0903016311455206
+"FW_ReduceAbsenteeism",0.15867554191087
+"FW_ReduceEmTurnover",0.229294052533162
+"FW_EmMotivation",0.248064232139824
+"BizClassMedium",0.121009706480842
+"BizClassSmall",-0.03995938919074

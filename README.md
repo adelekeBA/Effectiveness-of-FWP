@@ -59,4 +59,10 @@ This project analysed secondary data from the **Fourth Work-Life Balance Survey 
 > 📷 Add screenshots or model outputs here to support visual storytelling, e.g.:
 
 ```markdown
-![Feature Importance Chart](./feature-importance.png)
+![Feature Importance Chart](./A.jpeg)
+
+![Feature Importance Chart](./DecisionGenModel.jpeg)
+
+![Feature Importance Chart](./FWPMotivation.jpeg)
+
+![Feature Importance Chart](./DecisionGenModel.jpeg)
